@@ -490,7 +490,7 @@
         // Save message to firebase
         function saveMessage(name, email, comments) {
             console.log(email)
-            var ref = collection(db, "website-leads", email);
+            var ref = collection(db, "website-leads");
             const docRef = addDoc(ref, {name: name, email: email, comments: comments});
         }
     </script>
