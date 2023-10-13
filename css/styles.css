@@ -41,7 +41,7 @@ body {
  background: #A43E89;
 }
 p {
-	color: #000000;
+	color: #a0a0a0;
 	margin: 0 0 1em !important;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -181,11 +181,11 @@ padding: 9px 12px;
 	border-radius: 0px;
 	font-size: 16px;
 	font-weight: 400;
-	background: rgba(255,255,255,0.15);
+	background: rgba(255,255,255,1);
 }
 .button-outline:hover {
 	color: #fff;
-	background: rgba(255,255,255,0.35);
+	background: rgba(255,255,255,0.5);
 }
 a {
 	color: #D9D9D9;
@@ -328,7 +328,7 @@ margin-top: 101px;
 .navbar-toggle {
 }
 .hero-text {
-	color: #676e73;
+	color: #545454;
 	width: 83%;
 	text-align: center;
 	margin: 23% auto 24px auto;
@@ -372,7 +372,7 @@ margin-top: 101px;
 }
 .carousel-caption h3 {
 	font-size: 30px;
-	color: #1C4604;
+	color: #d9d9d9;
 	font-family: 'manrope', sans-serif;
 	font-weight: bold;
 	text-shadow: #D9D9D9 1px 1px 1px;
@@ -525,7 +525,7 @@ position: absolute;
 width: 100%;
 top: 0;
 bottom: 0;
-background: rgba(0, 0, 0, 0.80);
+background: rgba(0, 0, 0, 0.8);
 }
 .banner-container > img {
 	width: 100%;
@@ -579,11 +579,11 @@ a.arrow-link:hover {
 .colord p {
 }
 .colord h3 {
-	color: #281024;
+	color: #d9d9d9;
 }
 .hero-button {
 	text-align: center;
-	background: rgba(255, 255, 255, 0.36);
+	background: rgba(255, 255, 255, 0.5);
 	border: 1px solid #D9D9D9;
 	padding: 20px;
 	display: inline-block;
@@ -599,7 +599,7 @@ a.arrow-link:hover {
 	margin: 0 auto !important;
 }
 .heading h2 {
-	color: #1E2020;
+	color: #d9d9d9;
 	font-family: 'manrope', sans-serif;
 	font-size: 46px;
 	font-weight: bolder;
@@ -689,7 +689,7 @@ img, video, iframe, embed, object {
 	font-family: 'manrope', sans-serif;
 	/* text-transform: uppercase; */
 	letter-spacing: 1px;
-	color: #000000;
+	color: #d9d9d9;
 	margin-top: 0px;
 }
 .fluid-video-wrapper {
@@ -790,7 +790,7 @@ img, video, iframe, embed, object {
 	color: #fff;
 }
 #contactUs {
- background: #3B3C36; 
+ background: #292926; 
 }
 #contactUs .btn {
 	border-radius: 0px !important;
@@ -885,7 +885,7 @@ img, video, iframe, embed, object {
 	width: 100%;
 	height: 100%;
 	background-color: #000;
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(0,0,0,0.8);
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -1442,11 +1442,11 @@ nav#filter li {
 }
 .contact-parlex {
 	padding-top: 0px;  
-	background:#3B3C36;
+	background:#d9d9d9;
 }
 .parlex-back {
 	padding: 30px 0;
-	background-color: rgba(0, 0, 0, 0.37);
+	background-color: rgba(0, 0, 0, 0.5);
 	color: #FDFDFD !important;
 }
 .parlex-back .heading p {
