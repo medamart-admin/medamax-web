@@ -25,7 +25,7 @@ body {
 	color: #666666;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
-	background: #000000;
+	background: #CDF8E9;
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
@@ -33,7 +33,7 @@ body {
 }
 ::selection {
 	color: #fff;
-	background: #808080;
+	background: #51D4B6;
 }
 
 ::-moz-selection {
@@ -117,7 +117,7 @@ background: transparent;
 overflow:hidden;
 }
 #services .circle:hover {
-	background:#D9D9D9;	
+	background:#CDF8E9;	
 	transition: all 0.2s linear 0s;
 	-webkit-transition: all 0.2s linear 0s;
 	-moz-transition: all 0.2s linear 0s;
@@ -148,6 +148,7 @@ padding: 9px 12px;
 	border-radius: 0px !important;
 }
 .form-group {
+	color: #000000;
 	margin: 0 auto;
 	margin-bottom: 15px;
 	width: 75%;
@@ -156,7 +157,7 @@ padding: 9px 12px;
 	border: none;
 	padding: 22px 4px;
 	outline: none;
-	color: #CDCDCD;
+	color: #000000;
 	margin: 0;
 	width: 210px;
 	max-width: 100%;
@@ -167,7 +168,7 @@ padding: 9px 12px;
 	font-family: 'manrope', sans-serif;
 	border-radius: 0px !important;
 	width: 99%;
-	border: 1px solid rgba(255, 255, 255, 0.43);
+	border: 1px solid rgba(10, 9, 9, 0.43);
 }
 .button-outline {
 	-webkit-font-smoothing: antialiased;
@@ -215,10 +216,10 @@ a:hover {
 	margin: 30px 0;
 }
 .copyright {
-color: #6D6D6D;
-background: #000C11;
+color: #000000;
+background: #01B4A6;
 padding: 20px 0;
-border-top: 1px solid #1D1D1D;
+border-top: 1px solid #01B4A6;
 }
 #top {
 	position: relative;
@@ -242,9 +243,9 @@ left:0px;
 right:0px;
 }
 .flex-caption {zoom: 1;
-bottom: 120px;  color: #D9D9D9; margin: 0; padding: 25px 25px 25px 30px; position: absolute; left: 0; background: transparent;margin: 0 auto;right: 0;}
-.flex-caption h3 {color: #D9D9D9; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;font-size: 50px;font-family: 'manrope', sans-serif;font-weight: bolder;}
-.flex-caption p {margin: 0 0 15px;font-size: 20px !important;}	
+bottom: 120px;  color: #000000; margin: 0; padding: 25px 25px 25px 30px; position: absolute; left: 0; background: transparent;margin: 0 auto;right: 0;}
+.flex-caption h3 {color: #000000; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;font-size: 50px;font-family: 'manrope', sans-serif;font-weight: bolder;}
+.flex-caption p {color: #333; margin: 0 0 15px;font-size: 20px !important;}	
 .flex-caption a{
     background: transparent !important;
     border: 1px solid #D9D9D9;
@@ -280,7 +281,7 @@ bottom: 120px;  color: #D9D9D9; margin: 0; padding: 25px 25px 25px 30px; positio
 	float: right;
 }
 #home {
-background: #000000;
+background: #CDF8E9;
 margin-bottom: 30px;
 margin-top: 101px;
 }
@@ -290,13 +291,13 @@ margin-top: 101px;
 	z-index: 50;
 	border-radius: 0;
 	top: 0px; 
-	background: rgba(0, 0, 0, 1); /* FF3.6+ */   /* Chrome,Safari4+ */   /* Chrome10+,Safari5.1+ */   /* Opera 11.10+ */   /* IE10+ */   /* W3C */   /* IE6-9 */;
+	background: rgba(1, 180, 166, 1); /* FF3.6+ */   /* Chrome,Safari4+ */   /* Chrome10+,Safari5.1+ */   /* Opera 11.10+ */   /* IE10+ */   /* W3C */   /* IE6-9 */;
 	padding: 12px 0;
-	border-top: 4px solid #000000;
+	border-top: 4px solid #01B4A6;
 	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.19) !important;
 }
 .addBg {
-	background: rgba(5, 5, 5, 1);
+	background: rgba(1, 180, 166, 1);
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
@@ -307,23 +308,23 @@ margin-top: 101px;
 }
 .navbar-inverse .navbar-toggle {
 	background-color: #BA1607;
-	background: #000000;  border: 0;
+	background: #CDF8E9;  border: 0;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 /*background-color: #A43E89;*/
 ;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background: #000000;
+	background: #01B4A6;
 	border: 0;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #3ECF19;
-	background: #000000;
+	color: #ffffff;
+	background: #01B4A6;
 	border-radius: 0px;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-	background: #000000;
+	background: #01B4A6;
 }
 .navbar-toggle {
 }
@@ -341,10 +342,10 @@ margin-top: 101px;
 	text-shadow: 0px 1px 2px rgba(0, 0, 0, 1);
 }
 .b1{
-    background: #D9D9D9;
+    background: #CDF8E9;
     padding: 15px;
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.29) !important;
-    border-bottom: 4px solid #000000;
+    box-shadow: 0px 1px 1px rgba(1, 180, 166, 0.29) !important;
+    border-bottom: 4px solid #01B4A6;
     border-radius: 29px / 147px;
 }
 /*.carousel-inner*/
@@ -372,7 +373,7 @@ margin-top: 101px;
 }
 .carousel-caption h3 {
 	font-size: 30px;
-	color: #d9d9d9;
+	color: #000000;
 	font-family: 'manrope', sans-serif;
 	font-weight: bold;
 	text-shadow: #D9D9D9 1px 1px 1px;
@@ -432,7 +433,7 @@ margin-top: 101px;
 	border: 0;
 }
 .hero-text2{
-	background-color: #000000;
+	background-color: #01B4A6;
 	padding:20px 0;
 	text-align:center;	
 }
@@ -445,7 +446,7 @@ line-height: 36px;
 text-align: center;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #D9D9D9;
+	color: #000000;
 	font-size: 1.2em;
 	line-height: normal;
 	margin: 17px;
@@ -456,14 +457,14 @@ text-align: center;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
 	color: #000000;
-	background: #D9D9D9;
+	background: #01B4A6;
 	border-radius: 0px;
 }
 .navbar-inverse .navbar-nav > .active {
-    color: #D9D9D9;
+    color: #000000;
 }
 .navbar-nav > li:hover > a {
-	color: #D9D9D9;
+	color: #01B4A6;
 }
 .header .navbar-nav > li > a {
 	padding: 25px 18px;
@@ -508,7 +509,7 @@ text-align: center;
 	background-size: 100% 100%;
 	background-size: cover;
 	position: relative;
-	border-bottom: 2px #000000 solid;
+	border-bottom: 2px #CDF8E9 solid;
 }
 .banner-container:before {
 position: absolute;
@@ -525,7 +526,7 @@ position: absolute;
 width: 100%;
 top: 0;
 bottom: 0;
-background: rgba(0, 0, 0, 0.8);
+background: rgba(205, 248, 233, 0.8);
 }
 .banner-container > img {
 	width: 100%;
@@ -538,7 +539,7 @@ background: rgba(0, 0, 0, 0.8);
 	right: 0px;
 }
 .hero-text h1 {
-	color: #D9D9D9;
+	color: #000000;
 	font-size: 6.5em;
 	font-family: 'manrope', sans-serif;
 	margin: 2% 0 30px;
@@ -548,7 +549,7 @@ background: rgba(0, 0, 0, 0.8);
 }
 .hero-text p {
 	font-size: 1.6em;
-	color: #D9D9D9;
+	color: #000000;
 	font-style: normal; 
 	font-family: 'manrope', sans-serif;
 	text-shadow: 1px 1px 1px #8F8F8F;
@@ -605,7 +606,7 @@ a.arrow-link:hover {
 	font-weight: bolder;
 }
 #contactUs .heading h2 {
-	color: #D9D9D9;
+	color: #000000;
 }
 .sub-heading {
 	padding: 15px 0;
@@ -615,7 +616,7 @@ a.arrow-link:hover {
 	margin: 15px 0 8px !important;
 }
 .sub-heading p {
-	color: #D9D9D9;
+	color: #000000;
 }
 .heading {
 	padding: 3px 10px;
@@ -829,7 +830,7 @@ img, video, iframe, embed, object {
 }
 /* --Portfolio----- */
 #work {
-	background: #000000;
+	background: #51D4B6;
 	color: #fff;
 	opacity: 70%;
 }
@@ -854,7 +855,7 @@ img, video, iframe, embed, object {
 	padding: 6px 10px;
 }
 #portfolio .filters li a, #portfolio .filters li a:hover, #portfolio .filters li a:focus {
-	color: #ffffff
+	color: #01B4A6
 }
 #portfolio .filters li a.active {
 	color: #000 !important;
@@ -964,7 +965,7 @@ hr {
 body {
 	margin: 0;
 	font-family: 'Manrope', sans-serif;
-	background: #d9d9d9;
+	background: #CDF8E9;
 }
 #navigation {
 	position: fixed;
@@ -974,7 +975,7 @@ body {
 	padding: 0;
 	width: 200px;
 	background: #D9D9D9;
-	box-shadow: 0 10px 10px -10px #000000;
+	box-shadow: 0 10px 10px -10px #01B4A6;
 }
 #navigation > li {
 	margin: 0;
@@ -1055,10 +1056,11 @@ footer {
 	padding-bottom: 10%;
 }
 footer{
-	background: #000C11;
+	background: #01B4A6;
 }
 footer h4{
 	font-family: 'manrope', sans-serif;
+	color: #000000;
 font-size:24px;	
 padding-bottom:12px;
 }
@@ -1070,7 +1072,7 @@ list-style: none;
 footer .col ul li, footer .col p {
 	font-family: 'manrope', sans-serif;
 font-size: 14px;
-color: #696969;
+color: #000000;
 }
 footer .col.col-social-icons i {
 width: 40px;
@@ -1151,7 +1153,7 @@ padding:35px 0;
 	float: right;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #D9D9D9;
+	color: #FFFFFF;
 	font-family: 'manrope', sans-serif;
 	font-size: 1.1em;
 	padding: 6px 14px !important;
@@ -1446,11 +1448,11 @@ nav#filter li {
 }
 .parlex-back {
 	padding: 30px 0;
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: #CDF8E9; rgba(0, 0, 0, 0.5);
 	color: #FDFDFD !important;
 }
 .parlex-back .heading p {
-	color: #FDFDFD;
+	color: #000000;
 }
 #clients {
 	background: rgb(254, 254, 254);
