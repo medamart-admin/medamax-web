@@ -128,8 +128,8 @@ overflow:hidden;
 	color: #000000;
 }
 .btn {
-	color:#FFFFFF;
-	background: #000000;
+	color:#000;
+	background: #fff;
 }
 .btn:hover {
 	 color:#D9D9D9 !important;
