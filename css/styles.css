@@ -847,7 +847,7 @@ img, video, iframe, embed, object {
 	margin-bottom: 20px
 }
 #portfolio .filters li a {
-	color: #D9D9D9;
+	color: #000;
 	font-family: 'manrope', sans-serif;
 	/* font-weight: ; */
 	text-transform: uppercase;
@@ -858,7 +858,7 @@ img, video, iframe, embed, object {
 	color: #01B4A6
 }
 #portfolio .filters li a.active {
-	color: #000 !important;
+	color: #D9D9D9 !important;
 
 	border: 1px solid #000;
 }
