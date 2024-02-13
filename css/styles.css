@@ -847,7 +847,7 @@ img, video, iframe, embed, object {
 	margin-bottom: 20px
 }
 #portfolio .filters li a {
-	color: #000;
+	color: #D9D9D9;
 	font-family: 'manrope', sans-serif;
 	/* font-weight: ; */
 	text-transform: uppercase;
@@ -867,7 +867,7 @@ img, video, iframe, embed, object {
 }
 #portfolio .items li {
 	position: relative;
-	color: #000;
+	color: #D9D9D9;
 	float: left;
 	width: 50%;
 	overflow: hidden;
@@ -894,7 +894,7 @@ img, video, iframe, embed, object {
 	opacity: 0;
 }
 #portfolio .items li a .overlay span {
-	color: #D9D9D9;
+	color: #000000;
 	position: absolute;
 	height: 50px;
 	top: 50%;
