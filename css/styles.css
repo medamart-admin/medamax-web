@@ -867,7 +867,7 @@ img, video, iframe, embed, object {
 }
 #portfolio .items li {
 	position: relative;
-	color: #D9D9D9;
+	color: #000;
 	float: left;
 	width: 50%;
 	overflow: hidden;
